@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-name="Hungama Tv" tvg-logo="https://cdn.imgbin.com/0/24/20/imgbin-hungama-tv-television-channel-utv-software-communications-logo-hungama-digital-media-entertainment-rThfCQJZE1R6KyukkFdEg8Qi6.jpg" tvg-id="Sam" group-title="Kids",HUNGAMA
+#EXTINF:-1 tvg-name="Hungama Tv" tvg-logo="https://vignette.wikia.nocookie.net/doraemon/images/b/b9/Hungama_TV_logo.png/revision/latest?cb=20200118075714&path-prefix=en" tvg-id="Sam" group-title="Kids",HUNGAMA
 http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-name="Hooray Rhymes"tvg-logo="https://yt3.ggpht.com/a/AGF-l7-scbYw2GbLPR7JCh-zcgQSWA9ysI6NXOt8=s900-c-k-c0xffffffff-no-rj-mo" tvg-id="Sam" group-title="Kids",Hooray Rhymes
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-cartoonytv-samsungin/playlist.m3u8
