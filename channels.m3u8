@@ -2,3 +2,5 @@
 http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-name="𝗗𝗶𝘀𝗻𝗲𝘆 𝗛𝗗" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" tvg-id="AlbKanaleMusicTV.al
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/GLn5z5fJGlPulM_7wHPUpC2xHYSeP2XvyWRcbbmdDIMLBuKiOSTloGgcArZN-XHICz240fRj0KBzWH_Y0oj07A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-name="Hooray Rhymes"
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-cartoonytv-samsungin/playlist.m3u8
