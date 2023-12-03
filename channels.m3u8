@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-name="Hungama Tv" tvg-logo="" tvg-id="Sam" group-title="Kids",HUNGAMA
+#EXTINF:-1 tvg-name="Hungama Tv" tvg-logo="https://cdn.imgbin.com/0/24/20/imgbin-hungama-tv-television-channel-utv-software-communications-logo-hungama-digital-media-entertainment-rThfCQJZE1R6KyukkFdEg8Qi6.jpg" tvg-id="Sam" group-title="Kids",HUNGAMA
 http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-name="Jio Cinema" tvg-logo="" tvg-id="Sam" group-title="sports",Jio Cinema
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_indvsaus_t2005/master.m3u8
-#EXTINF:-1 tvg-name="Hooray Rhymes"tvg-logo="" tvg-id="Sam" group-title="Kids",Hooray Rhymes
+#EXTINF:-1 tvg-name="Hooray Rhymes"tvg-logo="https://yt3.ggpht.com/a/AGF-l7-scbYw2GbLPR7JCh-zcgQSWA9ysI6NXOt8=s900-c-k-c0xffffffff-no-rj-mo" tvg-id="Sam" group-title="Kids",Hooray Rhymes
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-cartoonytv-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-name="Jio Cinema" tvg-logo="https://th.bing.com/th/id/OIP.lmzGpcXVltwCOhXwNd_GjQAAAA?rs=1&pid=ImgDetMain" tvg-id="Sam" group-title="sports",Jio Cinema
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_indvsaus_t2005/master.m3u8
