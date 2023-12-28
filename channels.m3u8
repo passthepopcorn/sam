@@ -6,5 +6,5 @@ https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-ca
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_indvsaus_t2005/master.m3u8
 #EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/2349px-Star_Gold_2020.svg.png" tvg-id="Sam" group-title="Movies",Star Gold HD
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/CLpwxCWqNHWf6mOk2d8Y0YGwV-qrOM7czSnilj28th9S7r-9Txa3Rz14DkLRqr_4EtSfUvhhEcshPXdiw30VWQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star_Gold_2020.svg/2349px-Star_Gold_2020.svg.png" tvg-id="Sam" group-title="Entertainment",Star Pravah
+#EXTINF:-1 tvg-name="Star Pravah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Star_Pravah_2023.png" tvg-id="Sam" group-title="Entertainment",Star Pravah
 http://livetvbox.live:8080/live/7878/7878/98902.ts
