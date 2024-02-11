@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-name="Hungama Tv" tvg-logo="https://vignette.wikia.nocookie.net/doraemon/images/b/b9/Hungama_TV_logo.png/revision/latest?cb=20200118075714&path-prefix=en" tvg-id="Sam" group-title="Kids",HUNGAMA
-http://starshare.live:8080/live/123456/654321/66162.ts
+https://sangamp94.github.io/filmaxxplay/filmaxxlivehungama.m3u8
 #EXTINF:-1 tvg-name="Hooray Rhymes"tvg-logo="https://yt3.ggpht.com/a/AGF-l7-scbYw2GbLPR7JCh-zcgQSWA9ysI6NXOt8=s900-c-k-c0xffffffff-no-rj-mo" tvg-id="Sam" group-title="Kids",Hooray Rhymes
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-cartoonytv-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-name="Jio Cinema" tvg-logo="https://th.bing.com/th/id/OIP.lmzGpcXVltwCOhXwNd_GjQAAAA?rs=1&pid=ImgDetMain" tvg-id="Sam" group-title="sports",Jio Cinema
